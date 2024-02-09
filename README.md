@@ -3,6 +3,8 @@
 
 🍣 I’m currently working on **Supratecnia**
 
+- 🏫 I'm currently studying at **ITESO** 
+
 - 🌱 I’m currently learning **UX/UI, FullStack Develop**
 
 - 💸 I’m looking to collaborate on **Meta, Microsoft or Oracle**
