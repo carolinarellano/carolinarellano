@@ -3,7 +3,7 @@
 
 🍣 I’m currently working on **Supratecnia**
 
-- 🏫 I'm currently studying at **ITESO** 
+- 🏫 I'm in my 6th semester at **ITESO** 
 
 - 🌱 I’m currently learning **UX/UI, FullStack Develop**
 
