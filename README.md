@@ -23,7 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinarellano&show_icons=true&locale=en&layout=compact" alt="carolinarellano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolinarellano&show_icons=true&locale=en" alt="carolinarellano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinarellano&" alt="carolinarellano" /></p>
 
