@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🫧, I'm Carolina Arellano🌺</h1>
 <h3 align="center">Computer Science Student and UX/UI developer</h3>
 
-🍣 I’m currently working on **Supratecnia**
+🍣 I’m currently working at **Supratecnia**
 
 - 🏫 I'm in my 6th semester at **ITESO** 
 
