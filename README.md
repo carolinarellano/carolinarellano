@@ -1,5 +1,5 @@
 # 💫 About Me:
-📓 i’m currently working on supratecnia<br>🧩 i’m looking to collaborate on a big tech company<br>🚀 currently studying, this is my 7th semester at ITESO <br>🪼 i’m currently learning about competitive programming, react and next.js<br>⭐️ ask me about pop culture and full-stack development
+📓 i’m currently working on Toshiba as RMA & REMS intern<br>🧩 i’m looking to collaborate on a big tech company<br>🚀 currently studying, this is my 7th semester at ITESO <br>🪼 i’m currently learning about competitive programming, react and next.js<br>⭐️ ask me about pop culture and full-stack development
 
 
 ## 🌐 Socials:
