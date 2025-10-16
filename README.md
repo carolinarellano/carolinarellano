@@ -1,5 +1,5 @@
 # 💫 About Me:
-📓 i'm working as Associate Software Engineer at Toshiba Global Commerce Solutions<br>🧩 i’m looking to get a lot of knowledge and techical skills<br>🚀 currently studying Computer Systems Engineering, this is my 9th and last semester at ITESO <br>🪼 i’m learning about react, operating systems and java development <br>⭐️ ask me about pop culture and fashion
+📓 i'm working as Associate Software Engineer at Toshiba Global Commerce Solutions<br>🧩 i’m looking to get a lot of knowledge and techical skills<br>🚀 currently studying Computer Systems Engineering, this is my 9th and last semester at ITESO <br>🪼 i’m learning about azure, react and java development <br>⭐️ for in Him we live, and move, and have our being - acts 17:28
 
 
 ## 🌐 Socials:
